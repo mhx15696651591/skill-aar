@@ -1,0 +1,6 @@
+interface:
+  display_name: "Python to Kotlin Android Porting"
+  short_description: "Port Python algorithms to Kotlin Android"
+  default_prompt: "Use $python-to-kotlin-android-porting to port this Python algorithm to Kotlin Android and validate behavioral parity."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Android AAR Packaging"
+  short_description: "Build and verify Android Library AARs"
+  default_prompt: "Use $android-aar-packaging to build, verify, and hand off this Android Library AAR."
+policy:
+  allow_implicit_invocation: true
